@@ -46,7 +46,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium" alt="Sami's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium" alt="Sami's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mirza-sami&theme=radium" alt="Sami's GitHub Streak" />
 </div>
